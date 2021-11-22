@@ -1,0 +1,10 @@
+#include <windows.h>
+#include <iostream>
+#include <windowsX.h>
+#include <tchar.h>
+#include "resource.h"
+#include <iomanip>
+#include <string>
+#include <tlhelp32.h>
+#include <ctime>
+#include <algorithm>
